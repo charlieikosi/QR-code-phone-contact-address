@@ -1,2 +1,4 @@
 # QR-code-phone-contact-address
-Script that creates qr codes for automatically saving contact details into phone address book
+
+To start, you can clone this repository into your local environment
+
